@@ -17,6 +17,7 @@ This is a simple AI chatbot built using Streamlit and LangGraph with Ollama's Ll
 2. Install dependencies:
    ```sh
    pip install -r requirements.txt
+   # pip install --upgrade langchain langchain-community langgraph # pip install langchain-ollama
    ```
 3. Run the chatbot:
    ```sh
